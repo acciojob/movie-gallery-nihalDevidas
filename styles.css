@@ -1,2 +1,28 @@
-
+*{
+	margin:0px;
+	padding:0px;
+}
 /* Your CSS Code here. */
+.con-1 ,.con-2 , .con-3,.con-4{
+	margin-top:10px;
+    display:flex;
+	justify-content:space-between;
+}
+
+.img1{
+	width:50px;
+}
+.con-1{
+	width:100%;
+}
+
+.con-2{
+	width:50%;
+}
+.con-3{
+	width:25%;
+}
+
+.sec1{
+	margin-right:10px;
+}
